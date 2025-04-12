@@ -1,8 +1,5 @@
 # Environmental_audio_detection_using_cnn
 
-Sure! Here's a clean, professional `README.md` for your ESC-50 CNN Audio Detection project:
-
----
 
 # ESC-50 Audio Classification using CNN
 
@@ -76,11 +73,6 @@ Input → Conv2D → MaxPool → Conv2D → MaxPool → Conv2D → MaxPool
 ## 👩‍💻 Author
 
 **Tanish Dalal**  
-- Research Assistant @ Queen Mary University of London  
-- AI Intern @ IBM  
-- AI Trainer @ Outlier  
+**Komal Prasad**
 - Aspiring AI-ML Engineer  
 
----
-
-Let me know if you’d like a badge section, training logs, loss/accuracy plots, or how to run this as a full training pipeline too!
